@@ -17,15 +17,15 @@ To submit your answer, please send a message (via messenger) to one of the admin
 
 ```[1, 2, 3, 4, 5, 7]```   
 
-**4. SORT DICTIONARY/MAP BASED ON KEY**
+**3. SORT DICTIONARY/MAP BASED ON KEY**
 
 ```{"key": "value", "ab": "hi there", "we": "say what"}``` 
 
-**5. READING A FILE**
+**4. READING A FILE**
 
 read a file called _helloworld.txt_ and return line #10
 
-**6. READ A CSV FILE**
+**5. READ A CSV FILE**
 
 you have a csv file called _helloworld.csv_ with the following data in it
 
