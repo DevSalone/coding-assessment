@@ -22,11 +22,11 @@ To submit your answer, please send a message (via messenger) to one of the admin
 
 **5. READING A FILE**
 
-read a file called helloworld.txt and return line #10
+read a file called _helloworld.txt_ and return line #10
 
 **6. READ A CSV FILE**
 
-you have a csv file called helloworld.csv with the following data in it
+you have a csv file called _helloworld.csv_ with the following data in it
 
 ``` hi,bye,there,3```
 
