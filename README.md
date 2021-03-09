@@ -7,7 +7,7 @@ Share a project you've worked on recently (or in the past) What do you think of 
 
 Follow the instructions below to answer questionnaire. Next, the following five questions will be used to ensure our hackers have the foundation necessary for the hackathon. Please create a free github (https://github.com/join) account if you don't already have one, publish your code that solves each of these to https://gist.github.com and share link in your post.
 
-To submit your answer, please send a email (ernest@kamara.io/pdtpatrick@gmail.com). Once your answer is approved, you will receive an invite to join another group. 
+To submit your answer, please send a email to ernest@kamara.io or pdtpatrick@gmail.com. Once your answer is approved, you will receive an invite to join another group. 
 
 **1. FIND THE LONGEST WORD**
 
