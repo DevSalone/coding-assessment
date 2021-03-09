@@ -35,3 +35,5 @@ you have a csv file called _helloworld.csv_ with the following data in it
 
 
 Create a dictionary/map where the first three columns are your key and the last is your value. Sum up all values where the keys are the same.
+
+Happy coding!
